@@ -1,0 +1,43 @@
+input[type="search"]{
+    padding: 8px;
+    width: 20%;
+    margin: 20px;
+}
+label{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.hoc{
+    background-color:lightsalmon;
+}
+.lists{
+    background-color: rgb(201, 27, 213);
+    width: 26%;
+    padding: 10px 20px;
+    margin-left: 470px;
+    color:rgb(193, 244, 241)
+}
+h5:hover{
+    background-color: rgb(40, 46, 14);
+    padding: 10px;
+   
+}
+.App{
+   margin: 20px;
+}
+h1{
+    color:crimson;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+button{
+    height: 50px;
+    width: 200px;
+    border: 2px solid red;
+    border-radius: 25px;
+    color: gold;
+    background-color: black;
+}
+h4{
+    color: rgb(254, 59, 20);
+}
+
